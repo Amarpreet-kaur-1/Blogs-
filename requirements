@@ -1,0 +1,8 @@
+asgiref
+Django
+django-taggit
+pytz
+sqlparse
+faker
+
+from is a python command which impprt
